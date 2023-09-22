@@ -9,3 +9,8 @@ Extracting relevant attributes from fashion images is crucial to driving user de
 
 Challenges
 The data is tagged internally and has class imbalance. The accuracy of the tags aren't ideal and have few errors (noise). The problem requires participants to come up with efficient training strategies to overcome these challenges.
+
+
+to run this code You can visit my notebook in kaggle:
+
+https://www.kaggle.com/code/abhishek725kumar/notebookc239a6fa51
